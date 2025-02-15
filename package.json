@@ -1,5 +1,5 @@
 {
-  "name": "food_delivery",
+  "name": "resume",
   "private": true,
   "version": "0.0.0",
   "homepage": "https://jishnu9061.github.io/resume/",
@@ -22,7 +22,7 @@
     "react-dom": "^18.3.1",
     "react-router": "^7.1.5",
     "react-router-dom": "^7.1.5",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "styled-components": "^6.1.14"
   },
   "devDependencies": {
