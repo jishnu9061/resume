@@ -17,15 +17,15 @@ function ContactContent() {
         <Box sx={{ mt: 3, marginLeft: 5 }}>
           <Box sx={{ display: "flex", alignItems: "center", mb: 2 }}>
             <Email color="primary" sx={{ mr: 1 }} />
-            <Typography>Email: support@example.com</Typography>
+            <Typography>Email: jishnuganesh27@gmail.com</Typography>
           </Box>
           <Box sx={{ display: "flex", alignItems: "center", mb: 2 }}>
             <Phone color="primary" sx={{ mr: 1 }} />
-            <Typography>Phone: +123 456 7890</Typography>
+            <Typography>Phone: +91 9061670329</Typography>
           </Box>
           <Box sx={{ display: "flex", alignItems: "center", mb: 2 }}>
             <LocationOn color="primary" sx={{ mr: 1 }} />
-            <Typography>Address: 123 Street, City, Country</Typography>
+            <Typography>Address: Nandanam Near SS Temple Payyanur</Typography>
           </Box>
         </Box>
         </div>

@@ -36,7 +36,7 @@ function MainContent() {
               </Typography>
               <Typography variant="body1" mt={2} color="textSecondary">
                 Backend Developer with 2+ years of experience in Laravel &
-                React.js, specializing in building scalable web applications,
+                Php, specializing in building scalable web applications,
                 RESTful APIs, and database design. Passionate about writing
                 clean, efficient, and maintainable code.
               </Typography>
@@ -74,7 +74,7 @@ function MainContent() {
                 <IconButton href="#" color="primary">
                   <LinkedIn />
                 </IconButton>
-                <IconButton href="#" color="primary">
+                <IconButton href="https://www.facebook.com/profile.php?id=61561992831271" color="primary">
                   <Facebook />
                 </IconButton>
                 <IconButton href="#" color="primary">

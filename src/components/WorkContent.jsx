@@ -47,6 +47,10 @@ function WorkContent() {
               <Typography variant="body1">
                 - Managing databases with **MySQL** for optimized performance.
               </Typography>
+              <Typography variant="body1">
+                - Managed server deployment, configurations, and maintenance on{" "}
+                <strong>GoDaddy cPanel</strong>.
+              </Typography>
             </Grid>
 
             {/* Limenzy Technologies Experience */}
@@ -121,6 +125,18 @@ function WorkContent() {
                   </ListItemIcon>
                   <ListItemText primary="MySQL Database Management" />
                 </ListItem>
+                <ListItem>
+                  <ListItemIcon>
+                    <Storage color="primary" />
+                  </ListItemIcon>
+                  <ListItemText primary="Server Management" />
+                </ListItem>
+                <ListItem>
+                  <ListItemIcon>
+                    <CheckCircle color="primary" />
+                  </ListItemIcon>
+                  <ListItemText primary="Cpanel" />
+                </ListItem>
               </List>
             </Grid>
 
@@ -143,6 +159,18 @@ function WorkContent() {
                     <CheckCircle color="primary" />
                   </ListItemIcon>
                   <ListItemText primary="Git & Version Control" />
+                </ListItem>
+                <ListItem>
+                  <ListItemIcon>
+                    <CheckCircle color="primary" />
+                  </ListItemIcon>
+                  <ListItemText primary="React js" />
+                </ListItem>
+                <ListItem>
+                  <ListItemIcon>
+                    <CheckCircle color="primary" />
+                  </ListItemIcon>
+                  <ListItemText primary="Godaddy" />
                 </ListItem>
               </List>
             </Grid>
